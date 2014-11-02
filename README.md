@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Android CardEmulation Sample
 ==============================
 
@@ -52,3 +53,7 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
+=======
+StayWithMe
+==========
+>>>>>>> b2e4b3ab1c1d754b38415e1bf27b07a2b99bbb5b
